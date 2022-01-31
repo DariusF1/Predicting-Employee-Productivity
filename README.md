@@ -1,4 +1,4 @@
-# Predicting Productivity in the Clothing Industry
+# Predicting Productivity in the Clothing Industry (WIP)
 
 The Garment Industry is one of the key examples of industrial globalization in the modern business world. I became interested in this sector after completing a consultancy challenge with The Very Group who have close relationships with clothing suppliers in India and Bangladesh (This is a new dataset unrelated to my MSc course).
 
